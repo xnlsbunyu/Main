@@ -1,7 +1,15 @@
 h3 {
     text-align: left;
-    color: darkblue;
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: 150%;
+    color: white;
+    background-color: #829356;
 }
 .singer {
     color: #3F3FBF;
+}
+
+.school {
+    color: skyblue;
 }
